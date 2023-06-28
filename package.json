@@ -1,0 +1,9 @@
+{
+  "name": "bagopeida_be",
+  "version": "1.0.0",
+  "description": "node, express, postgres backend for the bagopedia webapp",
+  "main": "src/index.js",
+  "author": "Md Asif <asifarbaj@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
